@@ -46,3 +46,8 @@ Automatically downloads and converts audio with FFmpeg. Please download it first
 If anything goes wrong, check your internet connection and whether the URL is correct.
 Works on Windows, macOS, and Linux.
 ✅ Have fun downloading your favorite videos with ease! ???? likecopy
+
+
+
+<img width="545" alt="Screenshot 2025-03-06 at 1 40 56 PM" src="https://github.com/user-attachments/assets/217df6fb-8427-45e3-a22b-40ec38f3fbe6" />
+
