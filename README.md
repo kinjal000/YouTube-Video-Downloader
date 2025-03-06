@@ -2,11 +2,17 @@ YouTube Video & Audio Downloader
 
 Introduction The Python YouTube Video & Audio Downloader makes it easy to download videos from YouTube in different resolutions or extract the audio in high quality. The software has an easy-to-use Tkinter GUI, supports drag and drop functionality, and also comes with both light and dark mode for comfortable use.
 
-Features ✔️ Download videos in several resolutions (including HD) ✔️ High-quality audio extraction in MP3 format ✔️ Pre-download video information retrieval ✔️ Video preview for download ✔️ Dark & Light Mode customizable UI ✔️ Download progress bar
+Features ✔️
+Download videos in several resolutions (including HD) ✔️ 
+High-quality audio extraction in MP3 format ✔️ 
+Pre-download video information retrieval ✔️ 
+Video preview for download ✔️ 
+Dark & Light Mode customizable UI ✔️ 
+Download progress bar
 
 How It Works Following are simple steps to download YouTube audio or videos:
 
-1️⃣ Setup & Run
+1Setup & Run
 
 Install Python 3 if you haven't already.
 Install required dependencies with:
@@ -19,7 +25,7 @@ Format & Quality Choose
 
 Video Download: Select the preferred resolution (e.g., 720p, 1080p).
 Audio Download: Choose "Audio Only" to get high-quality MP3.
-4️⃣ Download
+4 Download
 
 Click the "Download" button and choose a download destination.
 The progress bar displays the download process.
