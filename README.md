@@ -50,4 +50,6 @@ Works on Windows, macOS, and Linux.
 
 
 <img width="545" alt="Screenshot 2025-03-06 at 1 40 56 PM" src="https://github.com/user-attachments/assets/217df6fb-8427-45e3-a22b-40ec38f3fbe6" />
+<img width="548" alt="Screenshot 2025-03-06 at 2 02 06 PM" src="https://github.com/user-attachments/assets/57120199-1c9b-411c-80a9-3fb7d7ea7445" />
+
 
